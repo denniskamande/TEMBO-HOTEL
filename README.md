@@ -1,6 +1,6 @@
 # Tembo Hotel Data Analysis & Power BI Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The Tembo Hotel Data Analysis project focuses on transforming raw hotel booking data into meaningful business insights using **PostgreSQL and Microsoft Power BI**.
 
@@ -10,7 +10,7 @@ The analysis explores hotel revenue, bookings, room performance, cancellations, 
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project were to:
 
@@ -27,7 +27,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **PostgreSQL** – Data cleaning, transformation, and analysis
 - **SQL** – Aggregations, filtering, CTEs, window functions, and calculations
@@ -36,8 +36,11 @@ The main objectives of this project were to:
 - **Excel** – Initial data handling and preparation
 
 ---
+## Screenshots
+![image_alt](https://github.com/denniskamande/TEMBO-HOTEL/blob/b444ff93ade07c6885ec28a940e223370019eb1b/Screenshot%202026-09-26%20130137.png)
+![image_alt](https://github.com/denniskamande/TEMBO-HOTEL/blob/b444ff93ade07c6885ec28a940e223370019eb1b/Screenshot%202026-09-26%20130155.png)
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Hotel Data
